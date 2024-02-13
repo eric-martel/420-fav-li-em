@@ -1,3 +1,3 @@
-# 420-XXX-LI-EM
+# 420-FAC-LI-EM
 
-Gabarit de notes de cours
+Notes du cours Sécurité des applications
